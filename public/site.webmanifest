@@ -1,7 +1,7 @@
 {
     "name": "Progrocket Development Blog",
     "short_name": "Progrocket Development Blog",
-    "start_url": "https://progrocket.dev/",
+    "start_url": "http://localhost:24396/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

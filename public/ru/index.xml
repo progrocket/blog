@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rus on Progrocket Blog</title>
-    <link>http://localhost:1313/ru/</link>
+    <link>http://localhost:24396/ru/</link>
     <description>Recent content in Rus on Progrocket Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 12 Dec 2024 20:24:43 +0300</lastBuildDate><atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2024 23:56:24 +0300</lastBuildDate><atom:link href="http://localhost:24396/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему Servocket?</title>
+      <link>http://localhost:24396/ru/posts/why-servocket/</link>
+      <pubDate>Thu, 12 Dec 2024 23:56:24 +0300</pubDate>
+      
+      <guid>http://localhost:24396/ru/posts/why-servocket/</guid>
+      
+      <description>&lt;h2 id=&#34;почему-servocket&#34;&gt;Почему Servocket?&lt;/h2&gt;
+&lt;p&gt;Как разработчик, я всегда хотел изучить сложные технологии, которые кажутся недостижимыми.
+У меня была мысль: что, если взять что-то, о чём я мало знаю, и сделать проект, который изменит мои навыки и подход к разработке? Так появилась идея &lt;strong&gt;Servocket&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Servocket&lt;/strong&gt; — это система мониторинга игровых серверов, созданная для того, чтобы игроки могли легко находить подходящие сервера под свои потребности. Она предоставляет данные о доступности, производительности, количестве игроков и других параметрах, позволяя выбрать сервер с оптимальными условиями для комфортной игры.
+Этот проект также полезен владельцам серверов, которым важно быстро находить и устранять проблемы.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -71,6 +71,14 @@ defaultContentLanguage = "ru-ru"
   name = "Dmitry aka Progrocket 🚀"
   description = "Блог о моем проекте Servocket 🚀, разработке сетевых систем 🖧, распределенных вычислений 🖥️ и backend-разработке на .NET и не только"
 
+[[Languages.ru-ru.params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/your_name_could_be_here"
+
+[[Languages.ru-ru.params.socialIcons]]
+  name = "email"
+  url = "mailto:me@progrocket.dev"
+
 [module]
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
